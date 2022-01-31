@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Luxurious Roman', cursive;
+    background-color: rgb(185, 126, 174);
+}
+
+.header_div
+{
+    background: bisque;
+    color: blueviolet;
+}
+
+.header_div p
+{
+    color: crimson;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(45, 52, 148);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: bisque;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(153, 61, 136);
+}
